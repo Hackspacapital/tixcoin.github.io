@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.crypto-bridge.org	TRUE	/	FALSE	1999999999	__cfduid	d15458d470d6cf6a3fd2e2d63d2eeedd51527743601
+
