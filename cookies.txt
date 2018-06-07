@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+hackspace.capital	TRUE	/	FALSE	1999999999	SESS8e7a37c9b0007c476dfdf1fc17163059	f2sa69gop1e6abbi0vd0inlpp4
+
